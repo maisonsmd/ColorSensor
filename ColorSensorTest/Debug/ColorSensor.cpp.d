@@ -50,4 +50,5 @@ C:\Users\Than\AppData\Local\Temp\VMBuilds\ColorSensorTest\STM32_genericSTM32F103
  C:\Program\ Files\ (x86)\Arduino\hardware\STM32\STM32F1\cores\maple/WCharacter.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\STM32\STM32F1\cores\maple/tone.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\STM32\STM32F1\cores\maple/Arduino.h \
- C:\Program\ Files\ (x86)\Arduino\hardware\STM32\STM32F1\variants\generic_stm32f103c/variant.h
+ C:\Program\ Files\ (x86)\Arduino\hardware\STM32\STM32F1\variants\generic_stm32f103c/variant.h \
+ C:\Users\Than\AppData\Local\Temp\VMBuilds\ColorSensorTest\STM32_genericSTM32F103C\Debug\Colors.h
