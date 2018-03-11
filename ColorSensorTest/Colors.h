@@ -12,12 +12,16 @@
 class advancedMath
 {
 public:
-	float modular(float x, float y)
+	/*float modular(float x, float y)
 	{
 		if (y == 0) return 0;
 		if (abs(x) < abs(y))
 			return x;
 		return ((int(x) / int(y))) + (x - float(int(x)));
+	}*/
+	float modular(float x, float y)
+	{
+		return x - float(int(x)/int(y)) * y;
 	}
 };
 
